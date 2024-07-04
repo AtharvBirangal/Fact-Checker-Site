@@ -1,1 +1,1 @@
-# FakeNewsDetectionMiniProject
+# FactCheckerMiniProject
